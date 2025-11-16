@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "multibaseauth",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "appbase",
+      "database_id": "e6b7e63d-b8b3-4b40-b490-9e3003d10a96"
+    }
+  ]
+}
